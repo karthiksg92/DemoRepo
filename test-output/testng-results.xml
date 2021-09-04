@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CRM PRO Automation test suite" duration-ms="32180" started-at="2021-09-04T12:13:18 IST" finished-at="2021-09-04T12:13:50 IST">
+    <groups>
+    </groups>
+    <test name="Free CRM application test" duration-ms="32180" started-at="2021-09-04T12:13:18 IST" finished-at="2021-09-04T12:13:50 IST">
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@498d318c]" name="setup" is-config="true" duration-ms="16413" started-at="2021-09-04T12:13:18 IST" finished-at="2021-09-04T12:13:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyContactsLabelTest()[pri:1, instance:com.crm.qa.testcases.ContactsPageTest@498d318c]" name="verifyContactsLabelTest" duration-ms="151" started-at="2021-09-04T12:13:35 IST" finished-at="2021-09-04T12:13:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsLabelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@498d318c]" name="tearDown" is-config="true" duration-ms="924" started-at="2021-09-04T12:13:35 IST" finished-at="2021-09-04T12:13:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@498d318c]" name="setup" is-config="true" duration-ms="13614" started-at="2021-09-04T12:13:36 IST" finished-at="2021-09-04T12:13:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selectSingleContactTest()[pri:2, instance:com.crm.qa.testcases.ContactsPageTest@498d318c]" name="selectSingleContactTest" duration-ms="134" started-at="2021-09-04T12:13:49 IST" finished-at="2021-09-04T12:13:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectSingleContactTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@498d318c]" name="tearDown" is-config="true" duration-ms="872" started-at="2021-09-04T12:13:50 IST" finished-at="2021-09-04T12:13:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+    </test> <!-- Free CRM application test -->
+  </suite> <!-- CRM PRO Automation test suite -->
+</testng-results>
